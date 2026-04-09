@@ -12,7 +12,7 @@ public class Scenario {
 
 	public static void main(String[] args) {
 
-		// TODO Partie 4 : creer de la classe anonyme Village
+		// Partie 4 : creer de la classe anonyme Village
 		IVillage village = new IVillage() {
 			private IEtal[] marche = new IEtal[3];
 		    private int nbEtals = 0;
